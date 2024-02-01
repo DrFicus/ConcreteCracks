@@ -14,6 +14,7 @@ The dataset is acquired from [Kaggle: Concrete Crack Images for Classification](
 - `concrete_crack_model_state_dict.pth`: The state dictionary of the trained PyTorch model (output from the training process).
 - `ConcreteCracks.ipynb`: Jupyter notebook containing the entire workflow, including data loading, preprocessing, model training, evaluation, and saving.
 - `requirements.txt`: Required Python packages for running the notebook.
+- `README.md`: Documentation file (this file).
 - `Dataset`: Directory containing the dataset with two subfolders (`Negative` and `Positive`).
 
 ## Usage
