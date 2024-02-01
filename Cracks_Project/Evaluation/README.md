@@ -26,5 +26,4 @@ The `eval.py` script is used to evaluate the model's performance. Key functional
 3. Run `python eval.py` to start the evaluation process.
 
 ### Notes
-- Ensure the dataset is correctly placed in the 'Evaluation Dataset' directory with proper subfolders for accurate evaluation.
 - The script will clear the 'Failed' directory before each run to ensure only the current evaluation's failed cases are stored.
